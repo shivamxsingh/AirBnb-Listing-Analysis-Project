@@ -1,8 +1,7 @@
 # AirBnb-Listing-Analysis-Project
 
 
-### Project Overview:
-
+## Project Overview:
 This project involves an in-depth analysis of Airbnb listings to uncover insights about pricing, availability, and guest preferences. The analysis aims to identify key factors that influence listing performance and provide actionable recommendations for hosts.
 
 **Data Source:**
